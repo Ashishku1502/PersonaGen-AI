@@ -1,0 +1,7 @@
+{
+  "name": "personagen-ai",
+  "framework": "nextjs",
+  "buildCommand": "npm run build",
+  "installCommand": "npm install",
+  "cleanUrls": true
+}
